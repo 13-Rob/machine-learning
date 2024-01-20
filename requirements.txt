@@ -1,0 +1,6 @@
+ipykernel
+
+numpy # for numerical computing
+matplotlib # for plotting
+pandas # for data analysis
+pyarrow # required for pandas
