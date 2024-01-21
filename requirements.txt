@@ -4,3 +4,6 @@ numpy # for numerical computing
 matplotlib # for plotting
 pandas # for data analysis
 pyarrow # required for pandas
+scikit-learn # for machine learning
+
+# sympy # for symbolic mathematics
