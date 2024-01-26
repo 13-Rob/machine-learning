@@ -6,5 +6,6 @@ pandas # for data analysis
 pyarrow # required for pandas
 scikit-learn # for machine learning
 apyori # for apriori algorithm
+nltk # for natural language processing
 
 # sympy # for symbolic mathematics
