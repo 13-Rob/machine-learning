@@ -8,5 +8,5 @@ scikit-learn # for machine learning
 apyori # for apriori algorithm
 nltk # for natural language processing
 xgboost # for gradient boosting
-tensorflow # for tensorflow
+tensorflow # for tensorflow (doesn't work with python 3.12)
 # sympy # for symbolic mathematics
