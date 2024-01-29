@@ -16,7 +16,7 @@ https://sdsclub.com/machine-learning-a-z-tips-and-resources/
 
 ### 02 - Multiple Linear Regression
 
-- [ ] *The Application of Multiple Linear Regression and Artifical Neural Network Models for Yield Prediction of Very Early Potato Cultivars before Harvest*. Magdalena Piekutowska et. al. (2021). Link: https://www.mdpi.com/2073-4395/11/5/885.
+- [x] *The Application of Multiple Linear Regression and Artifical Neural Network Models for Yield Prediction of Very Early Potato Cultivars before Harvest*. Magdalena Piekutowska et. al. (2021). Link: https://www.mdpi.com/2073-4395/11/5/885.
 
 ### 04 - Support Vector Regression
 
